@@ -23,7 +23,7 @@ require (
 	github.com/prometheus/procfs v0.0.0-20180528183257-fe93d378a6b0 // indirect
 	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca // indirect
 	github.com/sirupsen/logrus v1.0.5 // indirect
-	github.com/stretchr/testify v1.2.2
+	github.com/stretchr/testify v1.3.0
 	github.com/zonedb/zonedb v0.0.0-20180529081636-24ef5a4cc7e8 // indirect
 	golang.org/x/crypto v0.0.0-20180904163835-0709b304e793 // indirect
 	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
